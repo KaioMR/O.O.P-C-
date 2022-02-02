@@ -5,13 +5,19 @@ Create a C# program that requests three names of people from the user and stores
 
 End the program by reading people and executing the ToString() method on the screen.
 
-
+________
 Input:
-Juan
-Sara
-Carlos
 
+Juan
+
+Sara
+
+Carlos
+_______
 Output:
+
 Hello! My name is Juan
+
 Hello! My name is Sara
+
 Hello! My name is Carlos
