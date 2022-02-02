@@ -9,9 +9,7 @@ public class Program
 
         for (int i = 0; i < total; i++)
         {
-            p[i] = new Person() {
-                Name = Console.ReadLine()
-            };
+            p[i] = new Person(Console.ReadLine());
         }
 
         for (int i = 0; i < total; i++)
